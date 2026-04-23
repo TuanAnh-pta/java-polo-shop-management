@@ -1,0 +1,3 @@
+Dự án Quản lý cửa hàng Polo
+- Công nghệ: Java Swing, SQL Server.
+- Chức năng: Quản lý sản phẩm, hóa đơn, nhân viên...
